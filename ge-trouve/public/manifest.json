@@ -1,0 +1,17 @@
+{
+    "name": "GE-Trouve",
+    "short_name": "GE-Trouve",
+    "start_url": "/index.php",
+    "background_color": "#0088bf",
+    "description": "Application des objets trouvés à Genève",
+    "display": "fullscreen",
+    "theme_color": "#0088bf",
+    "icons": [
+        {
+            "src": "logo.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ]
+}
